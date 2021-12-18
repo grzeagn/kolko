@@ -14,3 +14,16 @@ szopa2=Szopa(5,1,2)
 print(szopa2.Pomaluj())
 
 
+#%%
+class KOT: 
+    def __init__ (self): 
+        self.name = name = ''
+        self.kolor_oczu = ''
+        self.ogon = ''
+        
+
+
+
+        def talk (self): pass class Dog (Animal): 
+            def talk (self): print ('Hau') class Cat (Animal): 
+                def talk ( self): print ('MEOW!')
